@@ -1,6 +1,6 @@
 # cmixer_sdl2
-Nim wrapper for [cmixer](https://github.com/rxi/cmixer), A lightweight audio
-mixer for games.
+A tiny Nim library for using [cmixer](https://github.com/rxi/cmixer-nim) with
+[sdl2](https://github.com/nim-lang/sdl2).
 
 ## License
 This library is free software; you can redistribute it and/or modify it under
